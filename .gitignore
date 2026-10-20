@@ -1,0 +1,10 @@
+.venv/
+target/
+project/target/
+project/project/
+.bsp/
+.idea/
+spark-warehouse/
+__pycache__/
+*.pyc
+.DS_Store
